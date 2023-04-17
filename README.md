@@ -4,7 +4,7 @@ Created a GitHub repository. Using APIs
 
 https://trimbak15.github.io/GitHub-Repository/
 
-![Screenshot](Screenshot (4).png)
+![Screenshot (4)](https://user-images.githubusercontent.com/118504736/232550235-8689b118-b0e6-40e1-a5fd-dee99ae1f74a.png)
 UI of the GitHub repo **
 
 ![Screenshot](Screenshot (4).png)
